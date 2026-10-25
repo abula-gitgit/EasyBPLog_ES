@@ -1,0 +1,6 @@
+{
+  "name": "EasyBPLog ES - Diario de Presión Arterial",
+  "description": "Cuaderno de presión arterial en casa conforme a las guías ESC/ESH y AHA/ACC con teclado gigante para mayores, gráficos de tendencias y reportes médicos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
